@@ -1,0 +1,76 @@
+*{
+  background: #98bdf0;
+  font-family: helvetica;
+}
+
+.banner{
+    color: #FFF;
+    height: 120px;
+    background: #6d8dc0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+  background: #6d8dc0;
+  font
+}
+
+
+.fullpage{
+  width: 300px;
+  height: 350px;
+  background: #6d8dc0;
+  margin-left: 500px;
+  border-radius: 12px;
+}
+
+
+
+input[type=text]{
+  color: white;
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  width: 60%;
+  height: 30px;
+  padding: 7px;
+  font-size: 14px;
+  margin-left: 30px;
+}
+
+input[type="button"] {
+  width: 120px;
+  margin-left: 35px;
+  display: block;
+}
+
+.logo{
+  width: 130px;
+  height: 118px;
+  background: #6d8dc0;
+  margin-left: 20px;
+}
+
+.careGiver{
+  background: #6d8dc0;
+  margin-left: 10px;
+  border-radius: 12px;
+}
+
+.date{
+  background: #6d8dc0;
+  margin-left: 10px;
+}
+
+.time{
+  background: #6d8dc0;
+  margin-left: 10px;
+}
+
+.save{
+  background: #6d8dc0;
+  margin-left: 10px;
+  margin-top: 20px
+}
